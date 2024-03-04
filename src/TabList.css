@@ -1,0 +1,38 @@
+/* TabList.css */
+.tab-list {
+    width: 100%;
+    padding: 10px;
+    border-bottom: 1px solid #ccc;
+  }
+  
+  .tabs {
+    display: flex;
+    align-items: center;
+  }
+  
+  .add-tab-btn {
+    margin-left: auto;
+    background-color: #007bff;
+    color: #fff;
+    border: none;
+    border-radius: 50%;
+    width: 30px;
+    height: 30px;
+    font-size: 20px;
+    cursor: pointer;
+  }
+  
+  .tab {
+    margin-right: 10px;
+  }
+  
+  .tab-title {
+    cursor: pointer;
+  }
+  
+  .close-tab-btn {
+    background: none;
+    border: none;
+    cursor: pointer;
+  }
+  
